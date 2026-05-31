@@ -14,3 +14,7 @@ The visualiser lets you define any problem in the universal predicate filtering 
 Place domain points on the canvas, then step through the algorithm one witness test at a time. 
 The visualiser shows which candidate is being tested (blue), which witness is being evaluated (amber)
 and which candidates have passed all witnesses and form part of the solution (green).
+
+## Deployment
+
+Try out the tool: https://incredible-syrniki-ee930b.netlify.app/
